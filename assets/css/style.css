@@ -46,7 +46,7 @@ li {
 }
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: var(--font-family);
   font-size: var(--fs-6);
   font-weight: var(--fw-regular);
   line-height: 1.5;
